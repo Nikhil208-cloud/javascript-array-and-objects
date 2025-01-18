@@ -7,5 +7,6 @@
 // }(9,8);
 // console.log(result);
 
-
-(()=> console.log("mern12"))();
+// iife:immediately invoked function expression
+// (()=> console.log("mern12"))();
+// (()=>{})();
